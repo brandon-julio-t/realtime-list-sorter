@@ -8,8 +8,6 @@
 import React from "react"
 import PropTypes from "prop-types"
 
-import "bootstrap"
-
 const Layout = ({ children }) => {
   return (
     <div className="container my-5">
